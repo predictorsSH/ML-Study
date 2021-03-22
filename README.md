@@ -33,4 +33,4 @@ DenseNet을 사용하였습니다.
 ['./APTOS 2019 Blindness Detection .ipynb'](./blindness detection.ipynb)
 
 ## 참고 자료
-
+-
