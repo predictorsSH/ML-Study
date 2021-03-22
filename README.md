@@ -13,7 +13,7 @@
 
 ### 결과화면
 
-![leaderboard](./img/leaderbord.png)
+![leaderboard](./img/leaderbord.PNG)
 
 ## 사용한 방법 & 알고리즘
 
