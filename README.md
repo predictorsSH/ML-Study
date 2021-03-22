@@ -13,7 +13,7 @@
 
 ### 결과화면
 
-![leaderboard](./img/leaderboard.PNG)
+![leaderboard](./img/leaderboard.png)
 
 ## 사용한 방법 & 알고리즘
 
@@ -30,7 +30,7 @@ DenseNet을 사용하였습니다.
 
 ## 코드
 
-['./APTOS 2019 Blindness Detection .ipynb'](./APTOS 2019 Blindness Detection.ipynb)
+['./APTOS 2019 Blindness Detection .ipynb'](./blindness detection.ipynb)
 
 ## 참고 자료
 
