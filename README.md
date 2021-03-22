@@ -30,7 +30,7 @@ DenseNet을 사용하였습니다.
 
 ## 코드
 
-[`./APTOS 2019 Blindness Detection .ipynb`](./APTOS 2019 Blindness Detection .ipynb)
+[`./APTOS 2019 Blindness Detection .ipynb`](./APTOS 2019 Blindness Detection.ipynb)
 
 ## 참고 자료
 
